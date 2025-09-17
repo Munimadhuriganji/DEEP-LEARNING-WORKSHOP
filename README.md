@@ -159,11 +159,18 @@ print(f'{correct} out of {len(y_test)} = {acc*100:.2f}% correct')
 
 <img width="853" height="415" alt="image" src="https://github.com/user-attachments/assets/d5e5a11f-58c9-4419-a8f7-1abb20fdfbd2" />
 
+
+
 <img width="274" height="324" alt="image" src="https://github.com/user-attachments/assets/b400cfec-91dc-4dd6-9321-5f4b17eecfa1" />
+
+
 
 <img width="730" height="564" alt="image" src="https://github.com/user-attachments/assets/461f27e9-c9c7-4eaf-8d1b-77d0b6f07628" />
 
+
+
 <img width="180" height="30" alt="image" src="https://github.com/user-attachments/assets/720b347d-dc63-4ca4-9e4f-a985f8639d3a" />
+
 
 <img width="308" height="27" alt="image" src="https://github.com/user-attachments/assets/c4168536-092c-4096-b6cb-263969301d27" />
 
